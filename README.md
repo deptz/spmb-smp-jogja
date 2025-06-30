@@ -1,6 +1,6 @@
 # Zonasi Daerah SPMB Yogyakarta
 
-A Python tool for monitoring and analyzing junior high school (SMP) admission data in Yogyakarta's regional zoning system (Zonasi Daerah). This tool helps students and parents track admission statistics, quotas, and simulate admission chances based on their scores.
+A Python tool for monitoring and analyzing junior high school (SMP) admission data in Yogyakarta's regional zoning system (Zonasi Daerah/Domisili Daerah). This tool helps students and parents track admission statistics, quotas, and simulate admission chances based on their scores.
 
 ## Features
 
@@ -92,8 +92,25 @@ For each school, the tool provides:
 ## Data Source
 
 The tool fetches data from the official SPMB Yogyakarta website:
-- Base URL: `https://yogya.spmb.id/seleksi/zd/smp/`
-- Covers schools with codes from 2-22040001-0 to 2-22040016-0
+- Base URL: `https://yogya.spmb.id/`
+
+Covers schools with codes from 2-22040001-0 to 2-22040016-0:
+- SMP NEGERI 1 YOGYAKARTA
+- SMP NEGERI 2 YOGYAKARTA
+- SMP NEGERI 3 YOGYAKARTA
+- SMP NEGERI 4 YOGYAKARTA
+- SMP NEGERI 5 YOGYAKARTA
+- SMP NEGERI 6 YOGYAKARTA
+- SMP NEGERI 7 YOGYAKARTA
+- SMP NEGERI 8 YOGYAKARTA
+- SMP NEGERI 9 YOGYAKARTA
+- SMP NEGERI 10 YOGYAKARTA
+- SMP NEGERI 11 YOGYAKARTA
+- SMP NEGERI 12 YOGYAKARTA
+- SMP NEGERI 13 YOGYAKARTA
+- SMP NEGERI 14 YOGYAKARTA
+- SMP NEGERI 15 YOGYAKARTA
+- SMP NEGERI 16 YOGYAKARTA
 
 ## How It Works
 
