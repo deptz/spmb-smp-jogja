@@ -1,6 +1,6 @@
-# Zonasi Daerah SPMB Yogyakarta
+# SPMB Zonasi/Domisili Daerah SMP Kota Yogyakarta
 
-A Python tool for monitoring and analyzing junior high school (SMP) admission data in Yogyakarta's regional zoning system (Zonasi Daerah/Domisili Daerah). This tool helps students and parents track admission statistics, quotas, and simulate admission chances based on their scores.
+A Python tool for monitoring and analyzing junior high school (SMP) admission data in Yogyakarta's regional zoning system (Sistem Penerimaan Murid Baru Zonasi Daerah/Domisili Daerah). This tool helps students and parents track admission statistics, quotas, and simulate admission chances based on their scores.
 
 ## Features
 
